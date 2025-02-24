@@ -65,7 +65,7 @@ Behavioural Diagram
 ## Create Project Framework
 
 ```
-composer create-project --prefer-dist laravel/laravel MyProject
+composer create-project --prefer-dist laravel/laravel QuanLySinhVien
 
 php artisan serve
 
