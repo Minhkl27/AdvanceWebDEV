@@ -8,7 +8,7 @@ OOP PHP
 
 MVC
 
-# Project: Not Yet
+# Project: Quản Lý Sinh Viên
 
 ## UML
 
@@ -31,4 +31,4 @@ php artisan serve
 
 # Deployment
 
-https://symmetrical-bassoon-w6v47v966pph96wp-8000.app.github.dev/
+
