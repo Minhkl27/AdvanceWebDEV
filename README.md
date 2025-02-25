@@ -14,6 +14,9 @@ MVC
 
 Structural Diagram
 
+![image](https://github.com/user-attachments/assets/f49d6470-fdc3-4d3a-9e25-639af0db019a)
+
+
 Behavioural Diagram
 
 ## Plan
