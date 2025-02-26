@@ -18,7 +18,14 @@ Structural Diagram
 
 
 Behavioural Diagram
+## Đăng nhập
+![image](https://github.com/user-attachments/assets/40848fa5-553a-457f-815d-1a2ff441a62a)
+## Teacher
+### Thêm lớp
 
+### Thêm sinh viên
+
+###
 ## Plan
 ### Database
 - `users`: Chứa danh sách tài khoản giáo viên và sinh viên
