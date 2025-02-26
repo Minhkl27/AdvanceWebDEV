@@ -25,6 +25,7 @@ Behavioural Diagram
 ![image](https://github.com/user-attachments/assets/3b18d3c7-4139-41ca-8b38-783b130de636)
 
 ## Student
+![image](https://github.com/user-attachments/assets/f31c4357-baa5-44aa-9167-39c07446ad33)
 
 
 ## Plan
